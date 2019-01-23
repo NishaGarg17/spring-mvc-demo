@@ -1,0 +1,8 @@
+127.0.0.1 - - [16/Jan/2019:08:46:41 +0530] "GET / HTTP/1.1" 200 1130
+0:0:0:0:0:0:0:1 - - [16/Jan/2019:08:46:42 +0530] "GET /spring-mvc-demo/ HTTP/1.1" 200 139
+0:0:0:0:0:0:0:1 - - [16/Jan/2019:08:46:49 +0530] "GET /spring-mvc-demo/showForm HTTP/1.1" 200 307
+0:0:0:0:0:0:0:1 - - [16/Jan/2019:08:46:59 +0530] "GET /spring-mvc-demo/processFormVersionTwo?studentName=Nisha+Garg HTTP/1.1" 200 232
+127.0.0.1 - - [16/Jan/2019:08:47:59 +0530] "GET / HTTP/1.1" 200 1130
+0:0:0:0:0:0:0:1 - - [16/Jan/2019:08:47:59 +0530] "GET /spring-mvc-demo/ HTTP/1.1" 200 139
+0:0:0:0:0:0:0:1 - - [16/Jan/2019:08:48:01 +0530] "GET /spring-mvc-demo/showForm HTTP/1.1" 200 307
+0:0:0:0:0:0:0:1 - - [16/Jan/2019:08:48:10 +0530] "GET /spring-mvc-demo/processFormVersionTwo?studentName=Nisha+Garg HTTP/1.1" 200 233

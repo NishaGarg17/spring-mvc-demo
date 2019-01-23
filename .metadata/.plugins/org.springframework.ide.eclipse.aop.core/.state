@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="SpringDemoAnnotations"/>
+<aop-project name="spring-mvc-demo"/>
+<aop-project name="Basic Spring Application"/>
+</aop-reference-model>

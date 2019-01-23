@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="EGit.KnownHosts">
+		<item value="git.eclipse.org"/>
+		<item value="github.com"/>
+		<item value="bitbucket.org"/>
+	</list>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/NishaGarg17/Baic-Spring-App.git"/>
+	</list>
+	<list key="CommitDialog.authorValues">
+		<item value="Nisha &lt;14gargnisha&gt;"/>
+	</list>
+	<list key="CommitDialog.committerValues">
+		<item value="Nisha &lt;14gargnisha&gt;"/>
+	</list>
+	<section name="org.eclipse.egit.ui.internal.push.PushResultDialog.dialogBounds">
+		<item value="666" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="457" key="DIALOG_HEIGHT"/>
+		<item value="358" key="DIALOG_X_ORIGIN"/>
+		<item value="68" key="DIALOG_Y_ORIGIN"/>
+		<list key="sashWeights">
+			<item value="600"/>
+			<item value="400"/>
+		</list>
+	</section>
+	<section name="GitCommitMessageComponent">
+		<list key="E:\sts-workspace\Basic Spring Application\.git">
+			<item value="false"/>
+			<item value="Nisha &lt;14gargnisha&gt;"/>
+			<item value="Commit data&#x0D;&#x0A;&#x0D;&#x0A;Change-Id: I0000000000000000000000000000000000000000&#x0D;&#x0A;"/>
+			<item value="Nisha &lt;14gargnisha&gt;"/>
+			<item value="0000000000000000000000000000000000000000"/>
+			<item value="0"/>
+		</list>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item value="593,400" key="STAGING_SASH_FORM_WEIGHT"/>
+		<item value="false" key="sortItemState"/>
+		<item value="651,344" key="HORIZONTAL_SASH_FORM_WEIGHT"/>
+	</section>
+</section>

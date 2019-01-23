@@ -1,0 +1,21 @@
+package com.luv2code.springdemo.mvc.cotroller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+import com.luv2code.springdemo.mvc.model.Student;
+
+@Controller
+@RequestMapping("/student")
+public class StudentController {
+	@RequestMapping("/showForm")
+	public String showForm(Model theModel) {
+		//Create a Student object
+		Student student = new Student();
+		//add student object to model
+		theModel.addAttribute("student", student);
+		return "student-form";
+		
+	}
+}

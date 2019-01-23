@@ -1,2 +1,7 @@
-com\luv2code\springdemo\mvc\HelloWorldController.class
-com\luv2code\springdemo\mvc\HomeController.class
+com\luv2code\springdemo\mvc\cotroller\SillyController.class
+com\luv2code\springdemo\mvc\cotroller\StudentController.class
+com\luv2code\springdemo\mvc\model\Customer.class
+com\luv2code\springdemo\mvc\cotroller\HomeController.class
+com\luv2code\springdemo\mvc\cotroller\CustomerController.class
+com\luv2code\springdemo\mvc\model\Student.class
+com\luv2code\springdemo\mvc\cotroller\HelloWorldController.class
