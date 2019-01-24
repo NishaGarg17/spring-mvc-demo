@@ -18,3 +18,13 @@
 0:0:0:0:0:0:0:1 - - [23/Jan/2019:09:43:04 +0530] "GET /spring-mvc-demo/customer/showForm HTTP/1.1" 200 570
 0:0:0:0:0:0:0:1 - - [23/Jan/2019:09:43:10 +0530] "POST /spring-mvc-demo/customer/processForm HTTP/1.1" 200 634
 0:0:0:0:0:0:0:1 - - [23/Jan/2019:09:43:16 +0530] "POST /spring-mvc-demo/customer/processForm HTTP/1.1" 200 176
+127.0.0.1 - - [23/Jan/2019:09:43:33 +0530] "GET / HTTP/1.1" 200 1130
+0:0:0:0:0:0:0:1 - - [23/Jan/2019:09:43:34 +0530] "GET /spring-mvc-demo/ HTTP/1.1" 200 261
+0:0:0:0:0:0:0:1 - - [23/Jan/2019:09:43:35 +0530] "GET /spring-mvc-demo/customer/showForm HTTP/1.1" 200 570
+0:0:0:0:0:0:0:1 - - [23/Jan/2019:09:43:44 +0530] "POST /spring-mvc-demo/customer/processForm HTTP/1.1" 200 177
+0:0:0:0:0:0:0:1 - - [23/Jan/2019:09:53:59 +0530] "GET /spring-mvc-demo/customer/showForm HTTP/1.1" 200 570
+0:0:0:0:0:0:0:1 - - [23/Jan/2019:09:54:03 +0530] "POST /spring-mvc-demo/customer/processForm HTTP/1.1" 200 633
+0:0:0:0:0:0:0:1 - - [23/Jan/2019:09:54:27 +0530] "POST /spring-mvc-demo/customer/processForm HTTP/1.1" 200 629
+0:0:0:0:0:0:0:1 - - [23/Jan/2019:09:54:31 +0530] "POST /spring-mvc-demo/customer/processForm HTTP/1.1" 200 629
+0:0:0:0:0:0:0:1 - - [23/Jan/2019:09:54:36 +0530] "GET /spring-mvc-demo/customer/showForm HTTP/1.1" 200 570
+0:0:0:0:0:0:0:1 - - [23/Jan/2019:09:54:44 +0530] "POST /spring-mvc-demo/customer/processForm HTTP/1.1" 200 634
