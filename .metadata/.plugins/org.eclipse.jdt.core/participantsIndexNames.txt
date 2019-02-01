@@ -1,6 +1,8 @@
 INDEX VERSION 1.131
 E:\sts-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2032520104.index
 \Basic Spring Application\src\main\java
+E:\sts-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3259758812.index
+\hibernate-tutorial\src\main\resources
 E:\sts-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1552162449.index
 \Basic Spring Application\src\main\java
 E:\sts-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4258509777.index

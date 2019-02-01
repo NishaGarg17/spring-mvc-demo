@@ -1,0 +1,5 @@
+package com.java.luv2code.hibernate.entity;
+
+public class Student {
+
+}
